@@ -1,0 +1,32 @@
+.heading{
+    color: crimson;
+}
+
+h1{
+    color:gray
+}
+p{
+    color:white
+}
+button{ line-break: auto;
+    background-color:gray;   
+} 
+ 
+<style>
+{margin: 10%; padding: 0;}
+.banner
+{position: relative; width: 90%; margin: 0 auto;}
+.banner img{width: 100%;}
+.heading{color:white ; position: absolute; top: 50%;}
+</style>
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.container{
+    background-color:white;
+    
+}
